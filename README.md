@@ -11,7 +11,12 @@ lemmen
 marry
 =======
 mithri
+<<<<<<< HEAD
 HHHHHHHHHH
 ls
 
 >>>>>>> master
+=======
+meduna
+sravani
+>>>>>>> br2
