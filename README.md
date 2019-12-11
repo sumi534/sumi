@@ -7,3 +7,5 @@ welcome mami
 madu
 srinivas
 mithri
+meduna
+sravani
