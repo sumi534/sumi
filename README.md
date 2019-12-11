@@ -6,5 +6,12 @@ happy birth day
 welcome mami
 madu
 srinivas
+<<<<<<< HEAD
 lemmen
 marry
+=======
+mithri
+HHHHHHHHHH
+ls
+
+>>>>>>> master
